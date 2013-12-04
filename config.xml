@@ -6,10 +6,10 @@
         id        = "com.colin.test_app"
         version   = "1.0.0">
 
-    <name>Testing Application</name>
+    <name>Geolocation test app</name>
 
     <description>
-       This is a testing app for Phonegap.
+       This is a testing app for Geoloaction device and code..
     </description>
 
     <author href="http://phonegap.com" email="support@phonegap.com">
